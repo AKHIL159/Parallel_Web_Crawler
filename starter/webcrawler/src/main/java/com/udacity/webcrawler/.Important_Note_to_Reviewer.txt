@@ -1,0 +1,15 @@
+
+⚠️Important Note⚠️:
+Getting NullPointerException because of FileNotFoundException if run using the given commands,
+The path of config files in my project is different from the one given in the commands.
+
+Please use the following paths,
+
+sample_config_sequential.json:
+src/main/java/com/udacity/webcrawler/main/config/sample_config_sequential.json
+
+sample_config.json:
+src/main/java/com/udacity/webcrawler/main/config/sample_config.json
+
+command to run the program ✅:
+java -classpath target/udacity-webcrawler-1.0.jar com.udacity.webcrawler.main.WebCrawlerMain src/main/java/com/udacity/webcrawler/main/config/sample_config.json

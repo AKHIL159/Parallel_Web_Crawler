@@ -1,0 +1,4 @@
+# Created at 2025-04-16T19:33:21.684
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Udacity_UdaciSearch\starter\webcrawler\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

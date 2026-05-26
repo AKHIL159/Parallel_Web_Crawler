@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Udacity_UdaciSearch.iml" filepath="$PROJECT_DIR$/.idea/Udacity_UdaciSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starter/webcrawler/udacity-webcrawler.iml" filepath="$PROJECT_DIR$/starter/webcrawler/udacity-webcrawler.iml" />
     </modules>
   </component>
 </project>
